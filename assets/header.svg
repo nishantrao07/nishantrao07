@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="430" viewBox="0 0 1600 430" role="img" aria-labelledby="title desc">
+  <title id="title">Nishant Rao LV — Applied AI, Machine Learning and Fintech</title>
+  <desc id="desc">A dark graphite technical banner with a cyan signal motif and the name Nishant Rao LV.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B12"/>
+      <stop offset=".55" stop-color="#101B29"/>
+      <stop offset="1" stop-color="#080D15"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38DCE8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#38DCE8" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#38DCE8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#8CA3BA" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="orb">
+      <stop offset="0" stop-color="#1A5965" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#1A5965" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="430" rx="18" fill="url(#bg)"/>
+  <rect width="1600" height="430" rx="18" fill="url(#grid)"/>
+  <circle cx="1315" cy="185" r="360" fill="url(#orb)"/>
+  <path d="M1040 0V430M1084 0V430M1128 0V430" stroke="#B9D0DF" stroke-opacity=".06"/>
+  <path d="M0 348H1600" stroke="#7D9CB0" stroke-opacity=".2"/>
+  <path d="M865 0L1010 145L1110 145L1235 270L1600 270" fill="none" stroke="#35C9D7" stroke-opacity=".38" stroke-width="2"/>
+  <path d="M1040 0L1178 138L1300 138L1438 0" fill="none" stroke="#35C9D7" stroke-opacity=".19" stroke-width="1.5"/>
+  <g fill="#54DDE7">
+    <circle cx="1010" cy="145" r="4"/><circle cx="1110" cy="145" r="4"/><circle cx="1235" cy="270" r="4"/><circle cx="1300" cy="138" r="4"/>
+  </g>
+  <g transform="translate(1120 80)" fill="none" stroke="#43D4E0" stroke-opacity=".68">
+    <rect x="0" y="0" width="330" height="230" rx="12" stroke-opacity=".22"/>
+    <path d="M28 174H86L112 126L146 157L184 73L216 110L248 58L298 58" stroke-width="2.5"/>
+    <path d="M28 190H298" stroke-opacity=".3"/>
+    <path d="M28 36H142M28 52H92" stroke-opacity=".28"/>
+    <circle cx="248" cy="58" r="5" fill="#43D4E0" stroke="none"/>
+    <circle cx="184" cy="73" r="4" fill="#43D4E0" stroke="none"/>
+    <path d="M272 26H298M285 13V39" stroke-width="1.5"/>
+  </g>
+  <rect x="92" y="83" width="64" height="4" rx="2" fill="url(#glow)"/>
+  <text x="92" y="166" fill="#EAF2FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="1.5">NISHANT RAO LV</text>
+  <text x="96" y="215" fill="#54DDE7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600" letter-spacing="3.1">APPLIED AI / ML  ·  SOFTWARE ENGINEERING  ·  FINTECH</text>
+  <text x="96" y="269" fill="#AAB9C8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" letter-spacing=".2">Building intelligent systems for real-world problems.</text>
+  <text x="96" y="380" fill="#8294A7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2.4">VIT CHENNAI  /  COMPUTER SCIENCE &amp; ENGINEERING</text>
+  <rect x="92" y="403" width="270" height="2" fill="url(#glow)"/>
+</svg>
