@@ -1,70 +1,150 @@
 <!--
-  Profile README for github.com/nishantrao07
-  Focus on real work; avoid vanity counters and placeholder links.
+  Nishant Rao LV | Profile README
+  Design: graphite / electric cyan / restrained technical editorial.
 -->
 
 <div align="center">
 
-# Nishant Rao LV
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D16,50:101D2B,100:0A0F17&height=210&section=header&text=NISHANT%20RAO%20LV&fontSize=43&fontColor=EAF2FF&fontAlignY=38&desc=APPLIED%20AI%20%2F%20ML%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20FINTECH&descSize=13&descAlignY=61&descColor=48D9E8&animation=fadeIn" width="100%" alt="Nishant Rao LV — Applied AI/ML, Software Engineering and Fintech"/>
 
-**AI / ML Engineering · Applied Machine Learning · Fintech**
+<br/>
 
-Building intelligent systems that connect machine learning with practical, real-world applications.
+### Engineering intelligent systems for problems that matter.
 
-[![GitHub](https://img.shields.io/badge/GitHub-nishantrao07-181717?style=flat-square&logo=github)](https://github.com/nishantrao07)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A0A0A?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-nishantrao07-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/nishantrao07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![VIT Chennai](https://img.shields.io/badge/VIT_Chennai-Computer_Science-111827?style=flat-square)](https://chennai.vit.ac.in/)
 
 </div>
 
 ---
 
-## About
+## 01 / Profile
 
-I'm a Computer Science undergraduate at **VIT Chennai**, interested in building applied machine learning systems, intelligent software and data-driven products.
+I'm a **Computer Science undergraduate at VIT Chennai** focused on applied machine learning, intelligent software and data-driven products.
 
-My work spans **predictive modelling, computer vision, backend engineering and full-stack development**. I'm particularly interested in the intersection of **AI and financial technology** — especially systems that make complex decisions more explainable, adaptive and useful.
+I enjoy working across the full engineering loop: understanding a problem, shaping the data, building and evaluating models, exposing capabilities through APIs, and delivering usable applications.
 
-Currently focused on strengthening my foundations in machine learning, software engineering and building projects that go beyond demos.
+My strongest project interests sit at the intersection of **machine learning and real-world decision systems** — especially financial technology, risk modelling and explainable AI.
 
-## Selected work
+**Current focus:** ML fundamentals · model evaluation · backend systems · production-minded engineering.
 
-| Project | What it does | Focus |
-|---|---|---|
-| **[Nivara](https://github.com/nishantrao07/Nivara)** | Financial resilience and credit-underwriting platform that models shortfall risk, explains risk drivers and supports capacity-aware credit decisions. | XGBoost · SHAP · FastAPI · React |
-| **[AcoustiGuard](https://github.com/nishantrao07/AcoustiGuard)** | Industrial acoustic anomaly detection for rotating equipment and valves, using audio features, temporal modelling and calibrated anomaly scoring. | PyTorch · TCN · Signal Processing |
-| **[ShelfSense AI](https://github.com/nishantrao07/ShelfSenseAI)** | Retail shelf intelligence combining object detection, temporal tracking, planogram compliance and a 3D digital twin. | YOLO · Computer Vision · Three.js |
-| **[AgriCarbon](https://github.com/nishantrao07/AgriCarbon)** | Precision agriculture platform for farm insights, sustainability tracking and carbon-credit workflows. | FastAPI · React · Supabase |
-| **[Finscope](https://github.com/nishantrao07/finscope)** | Personal finance web application for analysing expenses and supporting better money management. | Web Development · Fintech |
+## 02 / Selected engineering work
 
-## Technical toolkit
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Languages**  
-Python · Java · C++ · C · SQL
+### [01 — NIVARA](https://github.com/nishantrao07/Nivara)
 
-**Machine learning & data**  
-Scikit-learn · XGBoost · PyTorch · Pandas · NumPy · SHAP · YOLO · OpenCV
+**Adaptive Financial Resilience & Credit Underwriting**
 
-**Backend & databases**  
-FastAPI · Django · MySQL · PostgreSQL · Supabase
+A decision-support platform designed to assess financial shortfall risk for gig-economy workers, explain risk drivers and estimate responsible credit capacity.
 
-**Frontend & tools**  
-React · TypeScript · JavaScript · Tailwind CSS · Git · GitHub
+- Two-stage longitudinal resilience assessment
+- XGBoost risk modelling and SHAP explanations
+- What-if analysis for counterfactual risk exploration
+- FastAPI backend with a React interface
 
-## Recognition
+**Stack**  
+`Python` `XGBoost` `SHAP` `FastAPI` `React` `TypeScript`
 
-- **Special Mention — Hacktronics 2.0, TechnoVIT'26**, for AcoustiGuard, an industrial acoustic anomaly detection system.
+</td>
+<td width="50%" valign="top">
 
-## Current direction
+### [02 — ACOUSTIGUARD](https://github.com/nishantrao07/AcoustiGuard)
 
-- Deepening practical ML knowledge: model development, evaluation, explainability and deployment.
-- Building reliable end-to-end systems — from data and modelling to APIs and user-facing applications.
-- Exploring applied AI opportunities in **financial technology**.
+**Industrial Acoustic Anomaly Detection**
+
+An audio-based diagnostic pipeline for rotating equipment and industrial valves, combining time-frequency features, temporal prediction and calibrated anomaly scoring.
+
+- 64-band Log-Mel feature extraction
+- Causal temporal convolutional network
+- P95 prediction-error scoring
+- Conformal calibration for anomaly thresholds
+
+**Stack**  
+`Python` `PyTorch` `TCN` `Signal Processing` `FastAPI`
+
+<sub>Special Mention — Hacktronics 2.0, TechnoVIT'26</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [03 — SHELFSENSE AI](https://github.com/nishantrao07/ShelfSenseAI)
+
+**Autonomous Retail Shelf Sensing & Spatial Digital Twin**
+
+A computer-vision system for shelf monitoring and planogram compliance, pairing object detection with temporal tracking and a 3D spatial interface.
+
+- Unified YOLO11n product detector
+- Real-time tracking and misplacement analysis
+- Three.js digital twin
+- FastAPI services and Supabase integration
+
+**Stack**  
+`Python` `YOLO` `FastAPI` `React` `Three.js` `Supabase`
+
+</td>
+<td width="50%" valign="top">
+
+### [04 — AGRICARBON](https://github.com/nishantrao07/AgriCarbon)
+
+**Precision Agriculture & Carbon Credit Platform**
+
+A full-stack platform for farm insights, sustainability tracking, recommendations and carbon-credit workflows.
+
+- Farm and soil-health dashboards
+- Weather and recommendation workflows
+- Carbon-credit wallet and impact reporting
+- API-backed application with Supabase
+
+**Stack**  
+`Python` `FastAPI` `React` `TypeScript` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+## 03 / Technical toolkit
+
+| Domain | Technologies |
+|---|---|
+| **Languages** | Python · Java · C++ · C · SQL · JavaScript · TypeScript |
+| **ML & Data** | XGBoost · PyTorch · Scikit-learn · Pandas · NumPy · SHAP · YOLO · OpenCV |
+| **Backend** | FastAPI · Django · REST APIs |
+| **Frontend** | React · TypeScript · Tailwind CSS |
+| **Data stores** | MySQL · PostgreSQL · Supabase |
+| **Engineering tools** | Git · GitHub · Linux · Docker |
+
+## 04 / Recognition
+
+**Special Mention — Hacktronics 2.0, TechnoVIT'26**  
+Recognised for AcoustiGuard, an industrial acoustic anomaly detection system.
+
+## 05 / What I'm building toward
+
+- Strong foundations in machine learning, statistics and model evaluation.
+- Reliable ML systems: reproducible experiments, clear APIs, testing and deployment.
+- Applied AI for financial technology, risk intelligence and decision support.
+- Deeper software engineering skills through deliberate project work and collaboration.
 
 ---
 
 <div align="center">
 
-*Build with intent. Measure what matters. Keep learning.*
+**INTERESTED IN BUILDING SOMETHING MEANINGFUL?**
+
+Open to technical collaboration, research-oriented projects and internship opportunities in AI/ML and software engineering.
+
+[GitHub](https://github.com/nishantrao07) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/)
+
+<br/>
+
+<sub>Build carefully. Evaluate honestly. Ship useful things.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D16,50:101D2B,100:0A0F17&height=70&section=footer" width="100%" alt=""/>
 
 </div>
