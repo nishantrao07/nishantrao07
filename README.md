@@ -5,14 +5,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D16,50:101D2B,100:0A0F17&height=210&section=header&text=NISHANT%20RAO%20LV&fontSize=43&fontColor=EAF2FF&fontAlignY=38&desc=APPLIED%20AI%20%2F%20ML%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20FINTECH&descSize=13&descAlignY=61&descColor=48D9E8&animation=fadeIn" width="100%" alt="Nishant Rao LV — Applied AI/ML, Software Engineering and Fintech"/>
+<img src="assets/header.svg" width="100%" alt="Nishant Rao LV — Applied AI/ML, Software Engineering and Fintech"/>
 
 <br/>
 
 ### Engineering intelligent systems for problems that matter.
 
 [![GitHub](https://img.shields.io/badge/GitHub-nishantrao07-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/nishantrao07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![VIT Chennai](https://img.shields.io/badge/VIT_Chennai-Computer_Science-111827?style=flat-square)](https://chennai.vit.ac.in/)
 
 </div>
@@ -139,7 +138,7 @@ Recognised for AcoustiGuard, an industrial acoustic anomaly detection system.
 
 Open to technical collaboration, research-oriented projects and internship opportunities in AI/ML and software engineering.
 
-[GitHub](https://github.com/nishantrao07) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/)
+[GitHub](https://github.com/nishantrao07)
 
 <br/>
 
